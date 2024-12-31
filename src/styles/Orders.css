@@ -1,0 +1,23 @@
+.orders-container {
+    padding: 20px;
+  }
+  
+  .orders-container h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .orders-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .orders-container li {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #fefae0;
+  }
+  
